@@ -1,6 +1,6 @@
 package interfaceandabstraction;
-import interfaceandabstraction.company;
-public class account_overriding extends company {
+import interfaceandabstraction.Company;
+public class Account_overriding extends Company {
 
 	@Override
 	public double calsal(double sal, double bonus, double tax) {

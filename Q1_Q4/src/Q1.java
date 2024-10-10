@@ -10,7 +10,7 @@ class emp{
 	
 }
 
-public class q1 {
+public class Q1 {
 	public static void main(String[] args) {
 		emp emp = new emp();
 		System.out.println(emp.toString());
