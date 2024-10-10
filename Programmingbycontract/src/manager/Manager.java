@@ -1,6 +1,6 @@
 package manager;
-import account.account;
-public class manager extends account {
+import account.Account;
+public class Manager extends Account {
 	
 	@Override
 	public double calsal(double sal) {

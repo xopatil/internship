@@ -1,6 +1,6 @@
 package account;
-import company.company;
-public class account extends company {
+import company.Company;
+public class Account extends Company {
 
 	@Override
 	public double calsal(double sal, double bonus, double tax) {
